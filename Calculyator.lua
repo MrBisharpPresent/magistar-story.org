@@ -2,18 +2,27 @@ print "Starting Program..."
 os.clock()
 print "Loading Program..."
 print "1%"
+sleep(1000) 
 print "7%"
+sleep(1000) 
 print "13%"
+sleep(1000) 
 print "29%"
 print "35%"
 print "47%"
+sleep(1000) 
 print "51%"
 print "56%"
+sleep(1000) 
 print "64%"
 print "78%"
+sleep(1000) 
 print "83%"
+sleep(1000) 
 print "91%"
+sleep(1000) 
 print "99%"
+sleep(2000) 
 print "100%"
 print "The Loading is complete, run the Program."
 
