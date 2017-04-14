@@ -1,6 +1,23 @@
 print "Starting Program..."
 os.clock()
 print "Loading Program..."
+print "1%"
+print "7%"
+print "13%"
+print "29%"
+print "35%"
+print "47%"
+print "51%"
+print "56%"
+print "64%"
+print "78%"
+print "83%"
+print "91%"
+print "99%"
+print "100%"
+print "The Loading is complete, run the Program."
+
+
 print "Список функций: * , - , + , / ."
 local a
 local b
